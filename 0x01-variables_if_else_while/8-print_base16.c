@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - Entry point 
+* main - Entry point
 *
 * Description:  Print the numbers of base 16 in lowercase
 *

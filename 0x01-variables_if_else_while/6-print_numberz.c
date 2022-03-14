@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - Entry point 
+* main - Entry point
 *
 * Description: Print all single digit numbers using only putchar
 *
