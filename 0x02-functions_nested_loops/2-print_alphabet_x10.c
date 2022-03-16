@@ -4,6 +4,7 @@
  * print_alphabet_x10 - prints an alphabet 10 times in lower case
  *
  * Return void
+ */
 
 void print_alphabet_x10(void)
 {
