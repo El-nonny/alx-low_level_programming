@@ -6,7 +6,7 @@
  * Return 0
  */
 
-char main(void)
+void print_alphabet(void)
 {
   	char low;
 
