@@ -6,7 +6,7 @@
  * @s: the string
  * @c: the character
  *
- * Return: a pointer to a character aka the character found
+ * Return: a pointer to a character aka the character found or 0
  */
 char *_strchr(char *s, char c)
 {
@@ -17,5 +17,5 @@ char *_strchr(char *s, char c)
 		if (s[i] == c)
 		return (&s[i]);
 	}
-	return (0);
+	return ('\0');
 }
